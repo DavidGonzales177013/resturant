@@ -7,7 +7,6 @@
     max-height:100%;
 }
 body{
-    background-color: darkcyan; 
-    background-image:url(/img/images.jpg);
+    background-image:url('../img/images.jpg');
     color:rgb(255, 255, 255);               
 }
